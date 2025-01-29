@@ -1,0 +1,2 @@
+Built a facial expression detection model using YOLOv5 which identifies expressions such as Happy, Sad and Angry and it was trained on a custom-labeled dataset created with OpenCV and labelImg and was optimized using hyperparameter tuning (batch size, image size, epochs) with evaluation via Mean Average Precision (mAP). 
+The modules YOLOv5 and labelImg were changed from submodules to normal files.
